@@ -1,27 +1,26 @@
-<h1  align="center">Описание </h1> Описание 
- Сайт на Grid  увеличивается и уменьшается в зависимости от ширины экрана все данные взяты из тестового задания включая макет верстки в figma.
- На сайте есть HEADER MAIN FOOTER при открытии на мобильных устройствах он меняет свои размеры и адаптируется что делает пользования конечного клиента оптимальнее. 
-<h1  align="center">Crossbal</h1>
+<h1  align="center">Описание </h1> 
+ <p align="center">Сайт на CSS animation увеличивается и уменьшается в зависимости от ширины экрана.Кораблик движется по оси X  в обратном направлении и облака при этом цвет фона меняется.</p>
+
+<h1  align="center">Ship-animation</h1>
 
 <div align="center">
   
-![Lax 2.0 Gif](https://github.com/VladislavBobyrev/Grid-crossbal-test/blob/main/preview.gif)
+![Lax 2.0 Gif](https://github.com/VladislavBobyrev/ship-animation/blob/main/animation.gif)
   
 </div>
 <h3  align="center">Общие сведения</h3> 
 <p align="center">
-Рфзмер макета 1440px,  шрфт 'Montserat'16px, таблица должна сортировать по рейтингу каждый столбец.
-в мобильной версии сайт должен подстраиватьсчя под макетные параметры с помощью брекпоинтов. Cортировка таблицы, управление сортировки таблицы осуществляется кликом мыши, Адаптивный
-
+Рфзмер макета 1620px, CSS transform rtansiton
+ 
 <h4 align="center">Использовались для создания сайта </h4>
  
 <!-- - c использованием  canvas -->
 </p>
 
 <div align="center">
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />   
+<!--   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />    -->
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-<!--   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" /> -->
+  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
